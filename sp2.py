@@ -26,5 +26,6 @@ for line in fin:
 		else:
 			fout.write( line)
 #close input and output files
+			
 fin.close()
 fout.close()
