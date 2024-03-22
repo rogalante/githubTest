@@ -13,7 +13,6 @@ fin = open(iFile, "rt")
 fout = open(oFile, "wt")
 #for each line in the input file
 x=0
-
 for line in fin:
 	#read replace the string and write to output file
 	#fout.write(line.replace('pyton', 'python'))
