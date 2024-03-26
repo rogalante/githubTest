@@ -1,6 +1,5 @@
 import unidecode
 import sys
-
 iFile = sys.argv[1]
 oFile = sys.argv[2]
 converAll = sys.argv[3]
